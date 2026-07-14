@@ -1,4 +1,5 @@
 name: 将DockerHub镜像复制到GHCR.IO
+permissions: write-all
 
 on:
   workflow_dispatch:
